@@ -26,3 +26,4 @@ This project is currently not open for contributions. The sole contributor is Se
 
 ## Full system models 
 Full system models are available on request due to their large file sizes. This project demonstrates the code and methodologies used to achieve the creation and testing of the hierarchical multi-class classification models. 
+![](https://hit.yhype.me/github/profile?user_id=59490455)
